@@ -17,7 +17,22 @@ I enjoy building efficient, dynamic, and scalable web applications that address 
 - 🌱 Always exploring new technologies to stay at the forefront of web development.
 - 👯 Open to collaborating on innovative projects that foster growth and learning.
 - 💬 Feel free to reach out if you'd like to discuss web development or any of the technologies I specialize in.
-- 📫 You can contact me at: [nihadazzam96@gmail.com]
+- 📫 You can contact me at: [nihadazzam96@gmail.com] or via phone: **0458006887**
+
+## 📱 Connect with me:
+
+<p align="left">
+  <a href="https://www.instagram.com/azzni.jr/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" alt="Instagram" width="40" height="40"/>
+  </a>
+  <a href="https://www.facebook.com/nihad.alazzam.1/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" alt="Facebook" width="40" height="40"/>
+  </a>
+  <a href="https://x.com/Nihadazzam1">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="X (Twitter)" width="40" height="40"/>
+  </a>
+</p>
+
 - ⚡ Fun fact: To me, coding is more than writing lines of code—it's about solving problems and making an impact.
 
 Thanks for stopping by!
