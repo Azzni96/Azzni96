@@ -23,7 +23,7 @@ I enjoy building efficient, dynamic, and scalable web applications that address 
 
 <p align="left">
   <a href="https://www.instagram.com/azzni.jr/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" alt="Instagram" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="40" height="40"/>
   </a>
   <a href="https://www.facebook.com/nihad.alazzam.1/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" alt="Facebook" width="40" height="40"/>
